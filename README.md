@@ -4,8 +4,6 @@ This week we will practice how to create geometry objects,
 carry out simple geometric calculations, and reproject data sets
 using [geopandas](https://geopandas.org/).
 
-- **Exercise 2 is due by Thursday, 14 November 2024, end of day**
-
 - Don’t forget to check out the [hints for this week’s
   exercise](https://autogis-site.readthedocs.io/en/latest/lessons/lesson-2/exercise-2.html#hints)
 
